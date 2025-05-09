@@ -11,7 +11,7 @@ MyGossipDressUp is a simple addon that lets you instantly preview armor and weap
 When you're in a gossip window and see an item linked in the text or as an option:
 
 *   Simply **press and hold the `CTRL` key**.
-*   A preview window will pop up, showing your character मॉडल wearing the item!
+*   A preview window will pop up, showing your character wearing the item!
 
 This way, you can easily check out how that quest reward or vendor item will look on you before you commit.
 

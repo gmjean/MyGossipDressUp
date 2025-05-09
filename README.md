@@ -1,7 +1,3 @@
-Okay, here's a draft for your `README.md` file for the MyGossipDressUp addon:
-
----
-
 # MyGossipDressUp for World of Warcraft (WotLK 3.3.5a)
 
 Hello, adventurer! Welcome to **MyGossipDressUp**!

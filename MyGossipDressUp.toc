@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cFF00BFFFMy|r |cFF00FFFFGossip|r |cFF00FF00DressUp|r
+## Notes: Previews gossip item links in a custom frame when holding Ctrl.
+## Author: |cFFFF0000Dudsz - Tz-valanior|r
+## Version: 1.4.7-335a-customframe
+## SavedVariables: MyGossipDressUpSettings
+
+MyGossipDressUp.lua

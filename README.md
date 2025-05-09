@@ -57,7 +57,7 @@ You can control MyGossipDressUp with the following chat commands:
 
 ## Credits & Future
 
-*   **Author:** |cFFFF0000Dudsz-azralon - Tz-valanior|r
+*   **Author:** Dudsz-us-Azralon
 *   This addon was developed with the help and guidance of an AI assistant.
 *   Future ideas include smoother rotation animations, more UI options, and potentially a click-to-preview mode. Feedback and suggestions are welcome!
 
